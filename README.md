@@ -51,7 +51,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | ALAN JIOVANI ARRIAGA VENCES <l18090952@zacatepec.tecnm.mx>        	|laptop   	| si  	|   si	|   si	|   	|si
 | CARLOS ALBERTO DE JESUS PANTALEON <l18090989@zacatepec.tecnm.mx>  	|   	|   	|   	|   	|   	|
 | NANCY DANIELA HERNANDEZ MORENO <l18091031@zacatepec.tecnm.mx>     	|    Laptop	|  si	|   si	|   si	| 
-| SERGIO VALLE MONDRAGON <l18091122@zacatepec.tecnm.mx>             	|   	|   	|   	|   	|   	|
+| SERGIO VALLE MONDRAGON <l18091122@zacatepec.tecnm.mx>             	|escritorio  	|  si 	|   si	|   si	|   	|si
 | DENZEL JAHZEEL CORDOVA SOLORZANO <l19091287@zacatepec.tecnm.mx>   	|   	|   	|   	|   	|   	|
 | ADALID ANTUA FIGUEROA VALLE <l19091309@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
 | CHRISTIAN LOPEZ DIAZ <l19091362@zacatepec.tecnm.mx>               	|   Ordenador portatil	|  Si	|   Si	|   si	| si  	|
