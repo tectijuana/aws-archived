@@ -56,7 +56,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | ADALID ANTUA FIGUEROA VALLE <l19091309@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
 | CHRISTIAN LOPEZ DIAZ <l19091362@zacatepec.tecnm.mx>               	|   Ordenador portatil	|  Si	|   Si	|   si	| si  	|
 | CHRISTIAN BRITO PANTITLAN <l20090603@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
-| BRAYAN VAZQUEZ CELIS <l20090721@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
+| BRAYAN VAZQUEZ CELIS <l20090721@zacatepec.tecnm.mx>               	|   Laptop	|   Si	|  SI 	|  Si	|   Si	|
 | ANTONIO CARTE�O SORIANO <l20091053@zacatepec.tecnm.mx>            	|   	|   	|   	|   	|   	|
 | KEVIN FLORES MIRANDA <l20091083@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
 | NATALIA GARCIA LOPEZ <l20091093@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
