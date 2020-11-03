@@ -1,5 +1,5 @@
 # Este es mi primer MARKDOWN
-
-´´´c
+- viñeta
+```c
  printf("Hello world!");
-´´´
+
