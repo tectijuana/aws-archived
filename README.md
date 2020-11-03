@@ -50,7 +50,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | ADRIAN FLORES HERRERA <l18090233@zacatepec.tecnm.mx>              	|   	|   	|   	|   	|   	|
 | ALAN JIOVANI ARRIAGA VENCES <l18090952@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
 | CARLOS ALBERTO DE JESUS PANTALEON <l18090989@zacatepec.tecnm.mx>  	|   	|   	|   	|   	|   	|
-| NANCY DANIELA HERNANDEZ MORENO <l18091031@zacatepec.tecnm.mx>     	|    Laptop	|  si	|   si	|   si	| si  	|
+| NANCY DANIELA HERNANDEZ MORENO <l18091031@zacatepec.tecnm.mx>     	|    Laptop	|  si	|   si	|   si	| 
 | SERGIO VALLE MONDRAGON <l18091122@zacatepec.tecnm.mx>             	|   	|   	|   	|   	|   	|
 | DENZEL JAHZEEL CORDOVA SOLORZANO <l19091287@zacatepec.tecnm.mx>   	|   	|   	|   	|   	|   	|
 | ADALID ANTUA FIGUEROA VALLE <l19091309@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
