@@ -3,7 +3,7 @@
 # Bienvenidos al Taller de Amazon Web Services para TECNM
 Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Tijuana. Es una satisfacción personal estar con Uds para atender esta etapa de influenciar un elemento mas en su perfil profesional. Gracias por su tiempo.
 
-# CONDICIONES GENERALES DEL TALLER.
+# GENERALES DEL TALLER.
 
 💻 DIA 1: FORMALIZACIÓN DE LAS CUENTAS DE TRABAJO EN EL GITHUB, AWS EDUCATE
 - Creación de cuentas de GitHub y convertirlas a GH Pro, una beca de $86 dólares
