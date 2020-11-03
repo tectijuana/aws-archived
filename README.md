@@ -64,3 +64,6 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | ALEXIS ROGELIO BUSTAMANTE NORBERTO <l20091214@zacatepec.tecnm.mx> 	|   	|   	|   	|   	|   	|
 | MARTHA ESMERALDA CORONEL LEMUS <martha.cl@zacatepec.tecnm.mx>     	|   	|   	|   	|   	|   	|
 | TOMAS EMMANUEL HIGAREDA PLIEGO <tomas.hp@zacatepec.tecnm.mx>      	|   	|   	|   	|   	|   	|
+| VALENTE AZAEL NAZARIO HERAS  <l16091173@zacatepec.tecnm.mx>      	|   	|   	|   	|   	|   	|
+| YAHIR ALEXIS FLORES BARRETO <l20091081@zacatepec.tecnm.mx>      	|   	|   	|   	|   	|   	|
+
