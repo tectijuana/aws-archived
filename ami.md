@@ -1,7 +1,7 @@
 # COMO CONECTARNOS
 
 
-# ssh -i llavesita.pem ubuntu@___IP____
+# ssh -i llavesita.pem ubuntu@___IP____ para conectarnos de manera segura.
 
 
 
