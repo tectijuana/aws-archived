@@ -54,7 +54,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | SERGIO VALLE MONDRAGON <l18091122@zacatepec.tecnm.mx>             	|   	|   	|   	|   	|   	|
 | DENZEL JAHZEEL CORDOVA SOLORZANO <l19091287@zacatepec.tecnm.mx>   	|   	|   	|   	|   	|   	|
 | ADALID ANTUA FIGUEROA VALLE <l19091309@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
-| CHRISTIAN LOPEZ DIAZ <l19091362@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
+| CHRISTIAN LOPEZ DIAZ <l19091362@zacatepec.tecnm.mx>               	|   Ordenador portatil	|  Si	|   Si	|   si	| si  	|
 | CHRISTIAN BRITO PANTITLAN <l20090603@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
 | BRAYAN VAZQUEZ CELIS <l20090721@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
 | ANTONIO CARTE�O SORIANO <l20091053@zacatepec.tecnm.mx>            	|   	|   	|   	|   	|   	|
