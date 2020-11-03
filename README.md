@@ -43,7 +43,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 |-------------------------------------------------------------------	|---	|---	|---	|---	|---	|
 | ANA CELIA CAMPOS HERNANDEZ <celia.ch@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
 | CLAUDIA GABRIELA BUSTILLOS GAYTAN <claudia.bg@zacatepec.tecnm.mx> 	|   	|   	|   	|   	|   	|
-| VALENTE AZAEL NAZARIO HERAS <l16091173@zacatepec.tecnm.mx>        	|   laptop	|   si	|   	|   	si|   	|si
+| VALENTE AZAEL NAZARIO HERAS <l16091173@zacatepec.tecnm.mx>        	|   laptop	|   si	|    si |   	si|   	|si
 | MIGUEL EDUARDO OLGUIN PEREZ <l16091178@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
 | NOEL MAXIMILIANO GALINDO ORTIZ <l17091044@zacatepec.tecnm.mx>     	|   	|   	|   	|   	|   	|
 | DYLAN ELIAS NOLASCO LOPEZ <l17091119@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
