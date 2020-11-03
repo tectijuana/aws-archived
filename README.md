@@ -43,7 +43,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 |-------------------------------------------------------------------	|---	|---	|---	|---	|---	|
 | ANA CELIA CAMPOS HERNANDEZ <celia.ch@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
 | CLAUDIA GABRIELA BUSTILLOS GAYTAN <claudia.bg@zacatepec.tecnm.mx> 	|   	|   	|   	|   	|   	|
-| VALENTE AZAEL NAZARIO HERAS <l16091173@zacatepec.tecnm.mx>        	|laptop	|   si	|    si |     si|   	|      si
+| VALENTE AZAEL NAZARIO HERAS <l16091173@zacatepec.tecnm.mx>        	|   laptop	|   si	|    si |   	si|   	|si
 | MIGUEL EDUARDO OLGUIN PEREZ <l16091178@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
 | NOEL MAXIMILIANO GALINDO ORTIZ <l17091044@zacatepec.tecnm.mx>     	|   	|   	|   	|   	|   	|
 | DYLAN ELIAS NOLASCO LOPEZ <l17091119@zacatepec.tecnm.mx>          	|Laptop   	|  Si 	|   	|Si   	|   	|Si
@@ -58,7 +58,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | CHRISTIAN BRITO PANTITLAN <l20090603@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
 | BRAYAN VAZQUEZ CELIS <l20090721@zacatepec.tecnm.mx>               	|   Laptop	|   Si	|  SI 	|  Si	|   Si	|
 | ANTONIO CARTE�O SORIANO <l20091053@zacatepec.tecnm.mx>            	|   	|   	|   	|   	|   	|
-| KEVIN FLORES MIRANDA <l20091083@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
+| KEVIN FLORES MIRANDA <l20091083@zacatepec.tecnm.mx>               	| Mac	|   	|   Si	|   Si	|  Si 	|Si	
 | NATALIA GARCIA LOPEZ <l20091093@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
 | ALEXIS ROGELIO BUSTAMANTE NORBERTO <l20091214@zacatepec.tecnm.mx> 	|   	|   	|   	|   	|   	|
 | MARTHA ESMERALDA CORONEL LEMUS <martha.cl@zacatepec.tecnm.mx>     	|   	|   	|   	|   	|   	|
