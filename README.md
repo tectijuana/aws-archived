@@ -6,41 +6,39 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 # CONDICIONES GENERALES DEL TALLER.
 
 💻 DIA 1: FORMALIZACIÓN DE LAS CUENTAS DE TRABAJO EN EL GITHUB, AWS EDUCATE
-```
-Creación de cuentas de GitHub y convertirlas a GH Pro, una beca de $86 dólares
-	Llenado del formulario de AWSEducate.com para formalizar el crédito** de $100 dólares a cada estudiante por enrolarse 
-	JetBrains suite para profesionales (beca de $650 dolares) * Jetbrains DataGrip para Base de datos populares.
-	Diagnóstico de los recursos y habilidades de los estudiantes.
-	Apps para móviles para interconectar Desktop y Smartphones Apps:
-	iSSH para Iphone y SSH para Android la posibilidad de una beca de $85 dolares en Termius.com con Github Pro
-	Formato de MarkDown para publicar contenido en repositorios de GitHub
-	Software para usar Git, para este caso dependerá del Sistemas Operativo:  Git For Window, Git tools para Linux ó Brew para macOS
-	Publicar contenido en GIT, y clonar el espacio a en equipo local como primer intento y formalizar la utilería en el grupo.
-	Importancia del sistemas operativo distribuido de excelencia: Linux para este caso es la distribución popular de UBUNTU 20 (LTS)
-	Uso de la terminal (consola) y la importancia de SSH con llaves de seguridad de ingreso a los servidores Linux.
-```
+- Creación de cuentas de GitHub y convertirlas a GH Pro, una beca de $86 dólares
+- Llenado del formulario de AWSEducate.com para formalizar el crédito** de $100 dólares a cada estudiante por enrolarse 
+- JetBrains.com suite para profesionales (beca de $650 dolares) * Jetbrains DataGrip para Base de datos populares.
+- Diagnóstico de los recursos y habilidades de los estudiantes.
+- Apps para móviles para interconectar Desktop y Smartphones Apps:
+- iSSH para Iphone y SSH para Android la posibilidad de una beca de $85 dolares en Termius.com con Github Pro
+- Formato de MarkDown para publicar contenido en repositorios de GitHub
+- Software para usar Git, para este caso dependerá del Sistemas Operativo:  Git For Window, Git tools para Linux ó Brew para macOS
+- Publicar contenido en GIT, y clonar el espacio a en equipo local como primer intento y formalizar la utilería en el grupo.
+- Importancia del sistemas operativo distribuido de excelencia: Linux para este caso es la distribución popular de UBUNTU 20 (LTS)
+- Uso de la terminal (consola) y la importancia de SSH con llaves de seguridad de ingreso a los servidores Linux.
+- Dudas generales y acondicionamiento de cuentas y perfiles
+
 💻 DIA 2: PRÁCTICAS DE EC2, RDS BASE DE DATOS, S3
-```
-Conociendo EC2 en arquitecturas de x86 y ARM, para Linux Ubuntu y Windows Server 2019 Core.
-	Elaborar LAMP en Linux Ubuntu, compilado desde cero en 25 minutos con Panel de Control.
-	Elabora WAMP en MS Server.
-	Invocar RDS Base de Datos y conectarse a un gestor de base de datos.
-	Almacenamiento masivo con S3 para distribución de contenidos estáticos.
-```
+- Conociendo EC2 en arquitecturas de x86 y ARM, para Linux Ubuntu y Windows Server 2019 Core.
+- Elaborar LAMP en Linux Ubuntu, compilado desde cero en 25 minutos con Panel de Control.
+- Elabora WAMP en MS Server.
+- Invocar RDS Base de Datos y conectarse a un gestor de base de datos.
+- Almacenamiento masivo con S3 para distribución de contenidos estáticos.
+
 💻  DIA 3: 
-```
-  Conociendo la Gama de AWS del suite de Servicios de directorio de AWS
-  Aprendizaje Máquina,
-  Reconocimiento de imágenes con REKOGNITO
-	Procesamiento de Documentos a metadatos para indexación
-  Gama de Servicios del directorio de AWS
-  Repaso y cierre
-```
+- Conociendo la Gama de AWS del suite de Servicios de directorio de AWS
+- Aprendizaje Máquina,
+- Reconocimiento de imágenes con REKOGNITO
+- Procesamiento de Documentos a metadatos para indexación
+- Gama de Servicios del directorio de AWS
+- Repaso en general y cierre
+
 	
 # Canal de Stream:  http://youtube.com/RenéSolisEDU y link especifico estará publicado en breve el dia 3 de noviembre
 
 
-Lista de estudiantes
+# Lista de estudiantes y sus recursos
 
 | ESTUDIANTES                                                       	|  Recursos 	|  GitHub 	|  AWSEducate 	|  JetBrains 	|   	|
 |-------------------------------------------------------------------	|---	|---	|---	|---	|---	|
