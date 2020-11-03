@@ -1,3 +1,5 @@
+![](https://thewealthmosaic.s3.amazonaws.com/media/Logo_Amazon_Web_Services_2.png)
+
 # Bienvenidos al Taller de Amazon Web Services para TECNM
 Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Tijuana. Es una satisfacción personal estar con Uds para atender esta etapa de influenciar un elemento mas en su perfil profesional. Gracias por su tiempo.
 
