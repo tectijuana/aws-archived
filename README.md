@@ -6,10 +6,10 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 # GENERALES DEL TALLER.
 
 💻 DIA 1: FORMALIZACIÓN DE LAS CUENTAS DE TRABAJO EN EL GITHUB, AWS EDUCATE
-- Creación de cuentas de GitHub y convertirlas a GH Pro, una beca de $86 dólares
+- Creación de cuentas de GitHub y convertirlas a GH Pro, una beca de $86 dólares (https://education.github.com/students)
 - Llenado del formulario de AWSEducate.com para formalizar el crédito** de $100 dólares a cada estudiante por enrolarse 
 - JetBrains.com suite para profesionales (beca de $650 dolares) * Jetbrains DataGrip para Base de datos populares usarenos esta herramienta.
-- Diagnóstico de los recursos y habilidades de los estudiantes, para mediar el contenido.
+- Diagnóstico de los recursos y habilidades de los estudiantes, para mediar el contenido. (https://www.jetbrains.com/es-es/community/education/#students)
 - Apps para móviles para interconectar Desktop y Smartphones Apps que como WebSSH para Iphone y SSH para Android la posibilidad de una beca de $85 dolares en Termius.com con Github Pro
 - Formato de MarkDown para publicar contenido en repositorios de GitHub
 - Software para usar Git, para este caso dependerá del Sistemas Operativo:  Git For Window, Git tools para Linux ó Brew para macOS
