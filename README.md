@@ -35,7 +35,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Repaso en general y cierre
 
 	
-# Canal de Stream:  http://youtube.com/RenéSolisEDU y link especifico estará publicado en breve el dia 3 de noviembre
+# Canal de Stream en vivo:  https://youtu.be/9RbBi2GgdfA 
 
 
 # Lista de estudiantes y sus recursos
