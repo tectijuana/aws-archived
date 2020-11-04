@@ -62,7 +62,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | CHRISTIAN BRITO PANTITLAN <l20090603@zacatepec.tecnm.mx>          	|   	|   	|   	|   	|   	|
 | BRAYAN VAZQUEZ CELIS <l20090721@zacatepec.tecnm.mx>               	|   Laptop	|   Si	|  SI 	|  Si	|   Si	|
 | ANTONIO CARTE�O SORIANO <l20091053@zacatepec.tecnm.mx>            	|   	|   	|   	|   	|   	|
-| KEVIN FLORES MIRANDA <l20091083@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
+| KEVIN FLORES MIRANDA <l20091083@zacatepec.tecnm.mx>               	| laptop | si | si | si |  si |
 | NATALIA GARCIA LOPEZ <l20091093@zacatepec.tecnm.mx>               	|   	|   	|   	|   	|   	|
 | ALEXIS ROGELIO BUSTAMANTE NORBERTO <l20091214@zacatepec.tecnm.mx> 	|   	|   	|   	|   	|   	|
 | MARTHA ESMERALDA CORONEL LEMUS <martha.cl@zacatepec.tecnm.mx>     	|   	|   	|   	|   	|   	|
