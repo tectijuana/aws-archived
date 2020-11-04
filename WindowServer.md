@@ -24,7 +24,7 @@
 |                     	| –              	| i-0bcced1c5f2619e4d 	|  En ejecución                 	| t2.micro    	|  2/2 comprobaciones superadas 	| Sin alarmas                                	| us-east-1d     	| ec2-3-83-157-118.compute-1.amazonaws.com   	| 3.83.157.118   	| –        	| –         	| disabled  	| WinServer              	| llavesita 	| 2020/11/04 10:02 GMT-8 	|
 |                     	| –              	| i-07852c625407bef4e 	|  En ejecución                 	| t2.micro    	|  2/2 comprobaciones superadas 	| Sin alarmas                                	| us-east-1d     	| ec2-18-206-91-68.compute-1.amazonaws.com   	| 18.206.91.68   	| –        	| –         	| disabled  	| WinServer              	| llavesita 	| 2020/11/04 10:02 GMT-8 	|
 |                     	| –              	| i-0ccbb65359b66a240 	|  En ejecución                 	| t2.micro    	|  2/2 comprobaciones superadas 	| Sin alarmas                                	| us-east-1d     	| ec2-34-238-240-0.compute-1.amazonaws.com   	| 34.238.240.0   	| –        	| –         	| disabled  	| WinServer              	| llavesita 	| 2020/11/04 10:02 GMT   	|
-
+```
 
 18.205.191.132
 administrator PROFE
@@ -52,5 +52,5 @@ q.z=Z*oEPW.dpnSDpAv*@At4HrM;$uGz
    Y5n-7-o-=suVzDI7tMoBj3surX8j3qf!
    $AT2TDnL*QHa%w=lgux2Px5RZAPar8Dd
    ------
-   
+```
    
