@@ -47,7 +47,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 | MIGUEL EDUARDO OLGUIN PEREZ <l16091178@zacatepec.tecnm.mx>        	|   	|   	|   	|   	|   	|
 | NOEL MAXIMILIANO GALINDO ORTIZ <l17091044@zacatepec.tecnm.mx>     	|Laptop   	|  Si 	|Si   	|Si   	|   	|Si
 | DYLAN ELIAS NOLASCO LOPEZ <l17091119@zacatepec.tecnm.mx>          	|Laptop   	|  Si 	|   	|Si   	|   	|Si
-| ADRIAN FLORES HERRERA <l18090233@zacatepec.tecnm.mx>              	|Laptop |   	|  Si 	|  Si 	|   Si	|        Si
+| ADRIAN FLORES HERRERA <l18090233@zacatepec.tecnm.mx>              	|Laptop |  Si 	|  Si 	|  Si 	|   Si	|        
 | ALAN JIOVANI ARRIAGA VENCES <l18090952@zacatepec.tecnm.mx>        	|laptop   	| si  	|   si	|   si	|   	|si
 | CARLOS ALBERTO DE JESUS PANTALEON <l18090989@zacatepec.tecnm.mx>  	|  laptop 	|  si 	| si  	|  si 	|   	|si
 | NANCY DANIELA HERNANDEZ MORENO <l18091031@zacatepec.tecnm.mx>     	|    Laptop	|  si	|   si	|   si	| 
