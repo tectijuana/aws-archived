@@ -19,6 +19,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Dudas generales y acondicionamiento de cuentas y perfiles
 
 💻 DIA 2: PRÁCTICAS DE EC2, RDS BASE DE DATOS, S3
+Formalización del credito de AWS para un estudiante o docente sin TDC (https://www.youtube.com/watch?v=Hcunau_Z-ds&feature=youtu.be)
 - Conociendo EC2 en arquitecturas de x86 y ARM, para Linux Ubuntu y Windows Server 2019 Core.
 - Elaborar LAMP en Linux Ubuntu, compilado desde cero en 25 minutos con Panel de Control.
 - Elabora WAMP en MS Server.
