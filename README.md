@@ -23,6 +23,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Script de LAMP (Linux Apache MySQL Php) esta en http://github.com/tectijuana/lamp
 - Conociendo EC2 en arquitecturas de x86 y ARM, para Linux Ubuntu y Windows Server 2019 Core.
 - Para "relleno" de datos usar http://mockaroo.com que nos dan 1000 datos libres y personalizados (ver FX para scripts ejemplo)
+- Para subir archivos pero sin contar con la beca de TERMIUS usar https://cyberduck.io/ es libre para Win/MAC
 - Elaborar LAMP en Linux Ubuntu, compilado desde cero en 25 minutos con Panel de Control.
 - Elabora WAMP en MS Server.
 - Invocar RDS Base de Datos y conectarse a un gestor de base de datos.
