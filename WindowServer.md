@@ -52,5 +52,18 @@ q.z=Z*oEPW.dpnSDpAv*@At4HrM;$uGz
    Y5n-7-o-=suVzDI7tMoBj3surX8j3qf!
    $AT2TDnL*QHa%w=lgux2Px5RZAPar8Dd
    ------
+   
+   3ra parte
+   EQ. 18:  HW&29jPxD.5AZE4PIkiB%l2EH;b)$&pA
+   -mlHxRpeCuhgM;qSq.3prs$TIIEOnx5M
+   j?-hwX$2y)J@9VffKLXqN4%N!k$!RGnB
+   s$wD=*3t&7$jdoeu;Be@LA@$%amu48Rm
+   f7bdkb!63h.uDD5Z6fS%-yeMGMOvAIXF
+   D@IsIS$TOy@M)P@?&y)vLrg;.$jOuk3l
+   ;DJGodu3!2iJxA)BNcFcNrjHpPfIcRJL
+   g)PxkcD?BQ)uTDiE!q94x5ODPi7aDYO2
+   
+   
+   
 ```
    
