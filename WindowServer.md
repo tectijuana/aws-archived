@@ -26,6 +26,37 @@
 |                     	| –              	| i-0ccbb65359b66a240 	|  En ejecución                 	| t2.micro    	|  2/2 comprobaciones superadas 	| Sin alarmas                                	| us-east-1d     	| ec2-34-238-240-0.compute-1.amazonaws.com   	| 34.238.240.0   	| –        	| –         	| disabled  	| WinServer              	| llavesita 	| 2020/11/04 10:02 GMT   	|
 ```
 
+
+|    	| Windows Server CORE              	|
+|----	|----------------------------------	|
+| 1  	| GDnq*@tbO-=%?np)Gvv2BhrUPgYLKJYR 	|
+| 2  	| q.z=Z*oEPW.dpnSDpAv*@At4HrM;$uGz 	|
+| 3  	| ?gHdf=7@4nLfxqGYcfH%@EesbV==aEXu 	|
+| 4  	| !@w3IPtiFi=2H3sfyKf)!C)(BDsl4SIg 	|
+| 5  	| CPRqE@.$oC$MK4o6&KKJh26oRnBTaA-e 	|
+| 6  	| TCbG-Jbgno&62ugXYa.-CJ*3QN4%=ftP 	|
+| 7  	| tWO8OSoWI=73&D&twG(42D.twRfefSuv 	|
+| 8  	| xSgSasIWV-H(y=sivjHtPig?S8&=fk9x 	|
+| 9  	| 57.Bvau4=F%kvyBJBAwN5hNt49qQ4ZUb 	|
+| 10 	| yZvGVA9$Jx786$NUvv65hUp!pAbi5hW; 	|
+| 11 	| QGdk$ZW(OovmMzTY3Obv%?JCVU-f2AnT 	|
+| 12 	| 6tJVV)q8E9;cq%aR@M3o@54K(Qm453So 	|
+| 13 	| wr!n?K67K2*A;Mp8hX-5X4WHv-O%R6z@ 	|
+| 14 	| GDnq*@tbO-=%?np)Gvv2BhrUPgYLKJYR 	|
+| 15 	| Y5n-7-o-=suVzDI7tMoBj3surX8j3qf! 	|
+| 16 	| $AT2TDnL*QHa%w=lgux2Px5RZAPar8Dd 	|
+| 17 	| HW&29jPxD.5AZE4PIkiB%l2EH;b)$&pA 	|
+| 18 	| -mlHxRpeCuhgM;qSq.3prs$TIIEOnx5M 	|
+| 19 	| j?-hwX$2y)J@9VffKLXqN4%N!k$!RGnB 	|
+| 20 	| s$wD=*3t&7$jdoeu;Be@LA@$%amu48Rm 	|
+| 21 	| f7bdkb!63h.uDD5Z6fS%-yeMGMOvAIXF 	|
+| 22 	| D@IsIS$TOy@M)P@?&y)vLrg;.$jOuk3l 	|
+| 23 	| ;DJGodu3!2iJxA)BNcFcNrjHpPfIcRJL 	|
+| 24 	| g)PxkcD?BQ)uTDiE!q94x5ODPi7aDYO2 	|
+
+
+
+
 18.205.191.132
 administrator PROFE
 
