@@ -37,23 +37,15 @@ q.z=Z*oEPW.dpnSDpAv*@At4HrM;$uGz
    TCbG-Jbgno&62ugXYa.-CJ*3QN4%=ftP
    tWO8OSoWI=73&D&twG(42D.twRfefSuv
    xSgSasIWV-H(y=sivjHtPig?S8&=fk9x
-   xSgSasIWV-H(y=sivjHtPig?S8&=fk9x
    57.Bvau4=F%kvyBJBAwN5hNt49qQ4ZUb
    yZvGVA9$Jx786$NUvv65hUp!pAbi5hW;
    QGdk$ZW(OovmMzTY3Obv%?JCVU-f2AnT
-   ----
-   
-   2da parte
-   
-   -----
    6tJVV)q8E9;cq%aR@M3o@54K(Qm453So
    wr!n?K67K2*A;Mp8hX-5X4WHv-O%R6z@
    GDnq*@tbO-=%?np)Gvv2BhrUPgYLKJYR
    Y5n-7-o-=suVzDI7tMoBj3surX8j3qf!
    $AT2TDnL*QHa%w=lgux2Px5RZAPar8Dd
-   ------
    
-   3ra parte
    EQ. 18:  HW&29jPxD.5AZE4PIkiB%l2EH;b)$&pA
    -mlHxRpeCuhgM;qSq.3prs$TIIEOnx5M
    j?-hwX$2y)J@9VffKLXqN4%N!k$!RGnB
