@@ -36,6 +36,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Reconocimiento de imágenes con REKOGNITO
 - Procesamiento de Documentos a metadatos para indexación
 - Gama de Servicios del directorio de AWS
+- Beca de $45 dolare por un dominio gratis https://www.name.com/partner/github-students (ocupan github pro)
 - Repaso en general y cierre
 
 	
