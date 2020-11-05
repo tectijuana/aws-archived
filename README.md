@@ -39,7 +39,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Beca de $45 dolare por un dominio gratis https://www.name.com/partner/github-students (ocupan github pro)
 - Diagnostico del DNS si ya esta activo en linea, dura 2 a 24 hrs para dar la vuelta al mundo.
 - Repaso en general y cierre
-- Buen ejemplo https://github.com/tarcisiodarocha/OficinaAWSEducateSAS
+- Buen ejemplo https://github.com/tarcisiodarocha/OficinaAWSEducateSAS (Markdown, AWSEducate, GitHub, Github Classroom, EC2, Cloud9)
 	
 # Canal de Stream en vivo:  https://youtu.be/r5mT0WFCYAU (actualizado dia 5 de nov)
 
