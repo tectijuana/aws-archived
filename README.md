@@ -31,7 +31,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 
 💻  DIA 3: 
 - Conociendo la Gama de AWS del suite de Servicios de directorio de AWS
-- Almacenamiento masivo con S3 para distribución de contenidos estáticos.
+- Almacenamiento masivo con S3 para distribución de contenidos estáticos.(ver video: https://youtu.be/-gDN1i9YlLA?t=687)
 - Aprendizaje Máquina,
 - Reconocimiento de imágenes con REKOGNITO
 - Procesamiento de Documentos a metadatos para indexación
