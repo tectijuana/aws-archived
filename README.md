@@ -37,6 +37,7 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Procesamiento de Documentos a metadatos para indexación
 - Gama de Servicios del directorio de AWS
 - Beca de $45 dolare por un dominio gratis https://www.name.com/partner/github-students (ocupan github pro)
+- Diagnostico del DNS si ya esta activo en linea, dura 2 a 24 hrs para dar la vuelta al mundo.
 - Repaso en general y cierre
 
 	
