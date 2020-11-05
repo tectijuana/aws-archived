@@ -27,10 +27,11 @@ Con gusto de presentarme  a su servicio MC. René Solis R. de TecNM Campus IT Ti
 - Elaborar LAMP en Linux Ubuntu, compilado desde cero en 25 minutos con Panel de Control.
 - Elabora WAMP en MS Server.
 - Invocar RDS Base de Datos y conectarse a un gestor de base de datos.
-- Almacenamiento masivo con S3 para distribución de contenidos estáticos.
+
 
 💻  DIA 3: 
 - Conociendo la Gama de AWS del suite de Servicios de directorio de AWS
+- Almacenamiento masivo con S3 para distribución de contenidos estáticos.
 - Aprendizaje Máquina,
 - Reconocimiento de imágenes con REKOGNITO
 - Procesamiento de Documentos a metadatos para indexación
