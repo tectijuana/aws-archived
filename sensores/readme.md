@@ -1,0 +1,42 @@
+|    |                     |                     |          |           |                |                |                 |                 |                        |                        |
+|----|---------------------|---------------------|----------|-----------|----------------|----------------|-----------------|-----------------|------------------------|------------------------|
+| –  | i-0abd27078f22cd903 |  Running            | t2.micro | No alarms | 54.202.160.101 | –              | launch-wizard-1 | sensores21      | 2021/03/01 16:11 GMT-8 |                        |
+|    | –                   | i-0f70ab7b27bc5b4f3 |  Running | t2.micro  | No alarms      | 52.34.43.160   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-05e29b3172e3134b7 |  Running | t2.micro  | No alarms      | 52.36.116.93   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-012c1a4b27af54ab8 |  Running | t2.micro  | No alarms      | 54.202.170.43  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0183bd93b710065a6 |  Running | t2.micro  | No alarms      | 34.219.43.44   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-02b7c4367d8200ce5 |  Running | t2.micro  | No alarms      | 34.221.3.100   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-05055b0b4293c71ea |  Running | t2.micro  | No alarms      | 34.217.138.164 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-09bb66ee1c10f71d1 |  Running | t2.micro  | No alarms      | 54.187.186.55  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0616639860512d64e |  Running | t2.micro  | No alarms      | 52.34.138.81   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0d51c8b8d23dc0024 |  Running | t2.micro  | No alarms      | 34.222.216.204 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-06b62f58c868f1e6d |  Running | t2.micro  | No alarms      | 34.222.237.24  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-092377dd52a0a1941 |  Running | t2.micro  | No alarms      | 54.184.173.96  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0d2215fc5409d4110 |  Running | t2.micro  | No alarms      | 54.189.31.150  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0abafc5e1ca098e57 |  Running | t2.micro  | No alarms      | 18.237.41.8    | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-02c7a2ffc63816bfa |  Running | t2.micro  | No alarms      | 34.219.83.124  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-03fe4b7c8138ec41e |  Running | t2.micro  | No alarms      | 34.212.114.212 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-069eaf471fdd66290 |  Running | t2.micro  | No alarms      | 34.211.11.77   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0ea7023b490f59e46 |  Running | t2.micro  | No alarms      | 54.189.19.144  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-07a04ae8129633b04 |  Running | t2.micro  | No alarms      | 54.185.102.82  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0830e3478cf198b64 |  Running | t2.micro  | No alarms      | 34.210.179.0   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-01f0c1bd8d66161ab |  Running | t2.micro  | No alarms      | 52.37.32.27    | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0ac0c826b2f4780f6 |  Running | t2.micro  | No alarms      | 34.222.224.101 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-02c2f52c6e637025d |  Running | t2.micro  | No alarms      | 34.212.135.221 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0f6bbb63329afae58 |  Running | t2.micro  | No alarms      | 34.220.218.196 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0ad615c854033bf8e |  Running | t2.micro  | No alarms      | 34.221.3.175   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0b8c8c858a13752f8 |  Running | t2.micro  | No alarms      | 52.37.160.145  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0e3698f8bcc93f3ad |  Running | t2.micro  | No alarms      | 54.149.28.69   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-009ad2cd8928c61a2 |  Running | t2.micro  | No alarms      | 34.209.143.148 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0d434efc8a04fb174 |  Running | t2.micro  | No alarms      | 34.222.75.31   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-04b6ed92113d42999 |  Running | t2.micro  | No alarms      | 54.189.24.220  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0917dc202f6a37c98 |  Running | t2.micro  | No alarms      | 54.202.55.9    | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-06d08544d8197a617 |  Running | t2.micro  | No alarms      | 52.34.67.90    | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-09d841ae4e30979ce |  Running | t2.micro  | No alarms      | 54.187.49.28   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0bbc37702f96c5bc7 |  Running | t2.micro  | No alarms      | 54.244.39.28   | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-023a120dea0a60006 |  Running | t2.micro  | No alarms      | 52.12.153.113  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-049fd625b6b9fde5b |  Running | t2.micro  | No alarms      | 34.214.12.113  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-0f0a89ee090bd1964 |  Running | t2.micro  | No alarms      | 34.221.63.126  | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-01f277d25f4c16a8f |  Running | t2.micro  | No alarms      | 18.237.216.196 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-095f999e9c5e3fb66 |  Running | t2.micro  | No alarms      | 18.237.139.230 | –               | launch-wizard-1 | sensores21             | 2021/03/01 16:11 GMT-8 |
+|    | –                   | i-09234dec11f10eb9e |  Running | t2.micro  | No alarms      | 34.216.60.28   | –               | launch-wizard-1 |                        |                        |
