@@ -43,4 +43,4 @@
 |    | –                   | i-08de6ef253e0aefd2 |  Running | t2.small  | No alarms     | 34.213.40.217  | –               | launch-wizard-1   | llavesitainterfaz      | 2021/03/02 14:12 GMT-8 |
 |    | –                   | i-0d5dfc5f271c9aa5c |  Running | t2.small  | No alarms     | 54.201.2.172   | –               | launch-wizard-1   | llavesitainterfaz      | 2021/03/02 14:12 GMT-8 |
 |    | –                   | i-034f6396b4a15f2f2 |  Running | t2.small  | No alarms     | 54.186.28.11   | –               | launch-wizard-1   | llavesitainterfaz      | 2021/03/02 14:12 GMT-8 |
-|    | –                   | i-0f9561e9e497c8d3a |  Running | t2.small  | No alarms     | 18.237.144.25  | –               | launch-wizard-1   | llavesitainterfaz      | 2021/03/02 14:12 GMT-8 |
+|    | –                   | i-0f9561e9e497c8d3a |  Running | t2.small  | No alarms     | 18.237.144.25  | –               | launch-wizard-1   | llavesitainterfaz      | 2021/03/               |
